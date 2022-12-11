@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Peter-JXL
-- 👀 I’m interested in CPU, OS, Java
-- 🌱 I’m currently learning CPU
-- 💞️ I’m looking to collaborate on MicroSoft
-- 📫 How to reach me ...
+# 我是小林 👋
 
-<!---
-Peter-JXL/Peter-JXL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🏡 网站：[从01开始](https://www.peterjxl.com/)
+- 💞作品：[TimeRecorder](https://github.com/Peter-JXL/TimeRecorder), 求Star:sparkler:
+- 👀 热爱编程，对计算机底层感兴趣，致力于从零开始做一个计算机
+
