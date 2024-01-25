@@ -12,4 +12,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Fail2Ban](https://www.peterjxl.com/Linux/Security/Fail2Ban/)
+- [SSH登录方式的防护](https://www.peterjxl.com/Linux/Security/SSH/)
+- [Lombok简介](https://www.peterjxl.com/Lombok/introduction/)
+- [深入Lombok](https://www.peterjxl.com/Lombok/in-depth-learning/)
+- [Lombok常用注解](https://www.peterjxl.com/Lombok/annotation/)
 <!-- BLOG-POST-LIST:END -->
