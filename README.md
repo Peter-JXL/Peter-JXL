@@ -6,10 +6,10 @@
 
 # Hi there 👋
 
-This is the place where I opensource stuff 
+This is the place where I opensource stuff ~
 
-- 🌱  I’m currently learning Java And English
-- 🏡 This is my website：[从01开始](https://www.peterjxl.com/)
+- 🌱  I’m currently learning Java And English.
+- 🏡 This is my website：[从01开始](https://www.peterjxl.com/) .
 
 
 📕 &nbsp;**Latest Blog Posts**
