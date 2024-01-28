@@ -14,9 +14,9 @@ This is the place where I opensource stuff ~
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [教程概述](https://www.peterjxl.com/pages/aae0d9/)
-- [离职注意事项](https://www.peterjxl.com/Job/dimission/Att/)
-- [DNS入门](https://www.peterjxl.com/pages/052ff9/)
-- [Fail2Ban](https://www.peterjxl.com/Linux/Security/Fail2Ban/)
 - [SSH登录方式的防护](https://www.peterjxl.com/Linux/Security/SSH/)
+- [Fail2Ban](https://www.peterjxl.com/Linux/Security/Fail2Ban/)
+- [Lombok简介](https://www.peterjxl.com/Lombok/introduction/)
+- [Lombok常用注解](https://www.peterjxl.com/Lombok/annotation/)
+- [深入Lombok](https://www.peterjxl.com/Lombok/in-depth-learning/)
 <!-- BLOG-POST-LIST:END -->
