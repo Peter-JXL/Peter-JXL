@@ -14,9 +14,9 @@ This is the place where I opensource stuff ~
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [浏览器的一些技巧](https://www.peterjxl.com/Browser/browser-tips/)
 - [浏览器插件推荐](https://www.peterjxl.com/Browser/extension-recommendation/)
 - [搜索引擎的一些技巧](https://www.peterjxl.com/Browser/search-engine-tips/)
 - [搜索引擎推荐](https://www.peterjxl.com/Browser/search-engine/)
-- [浏览器推荐](https://www.peterjxl.com/Browser/recommend/)
 - [（转载）中文互联网的产出在渐渐枯萎吗？-知乎](https://www.peterjxl.com/Browser/About-China-Internet-Crop-zhihu/)
 <!-- BLOG-POST-LIST:END -->
