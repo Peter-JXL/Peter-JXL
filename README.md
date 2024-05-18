@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Peter-JXL)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Peter-JXL&theme=monokai)
 
 
 
