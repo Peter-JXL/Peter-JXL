@@ -8,6 +8,8 @@
 
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Peter-JXL)]
+![trophy](https://github-profile-trophy.vercel.app/?username=Peter-JXL&theme=monokai)
+
+
 
 ![Metrics](/github-metrics.svg)
