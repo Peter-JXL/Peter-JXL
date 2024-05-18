@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Peter-JXL)
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter-JXL&show_icons=true&theme=github_dark)
 
