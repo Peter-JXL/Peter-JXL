@@ -48,14 +48,14 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="128" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/GRCBank.png" />
+<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/GRCBank.png" />
 
 - [广州农商银行](https://www.grcbank.com/) &emsp; 📌 2020-07 —— 2023-07
 
   - 工作岗位：系统开发岗
   - 工作内容：参与网银开发与维护工作
 
-<img align="right" width="128" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/Inspur.PNG" />
+<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/Inspur.PNG" />
 
 - [浪潮](https://www.inspur.com/) &emsp; 📌 2019-07 —— 2020-02
 
@@ -67,9 +67,6 @@
 
 
 </table>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/hr.gif" />
 
 # 📊 WakaTime
 
