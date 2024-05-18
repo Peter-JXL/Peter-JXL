@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Peter-JXL.visitor-badge&left_color=green&right_color=red)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter-JXL&show_icons=true&theme=github_dark)
 
