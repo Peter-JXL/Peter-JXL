@@ -48,14 +48,14 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/GRCBank.png" />
+<img align="right" width="128" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/GRCBank.png" />
 
 - [广州农商银行](https://www.grcbank.com/) &emsp; 📌 2020-07 —— 2023-07
 
   - 工作岗位：系统开发岗
   - 工作内容：参与网银开发与维护工作
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/Inspur.PNG" />
+<img align="right" width="128" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/Inspur.PNG" />
 
 - [浪潮](https://www.inspur.com/) &emsp; 📌 2019-07 —— 2020-02
 
@@ -78,11 +78,6 @@
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Peter-JXL&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Peter-JXL&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
-
-
-
-<!-- ########################################## 分割线 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/hr.gif" />
 
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
@@ -108,8 +103,3 @@
       </picture>
   </tr>
 </table>
-
-</div>
-
-
-</div>
