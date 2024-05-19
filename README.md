@@ -50,7 +50,7 @@
 
 <tr><td>
 
-### 🏢 Work Experience
+## 🏢 Work Experience
 
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/GRCBank.png" />
 
@@ -76,7 +76,7 @@
 
 </table>
 
-# 📊 WakaTime
+## 📊 GitHub 数据统计
 
 
 <!-- GitHub 数据统计 -->
