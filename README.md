@@ -14,7 +14,6 @@
 <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://www.peterjxl.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="https://space.bilibili.com/53069777/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=Peter-JXL&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
